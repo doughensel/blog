@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "0.0.0",
+  "description": "blog with static html genned files",
+  "main": "app.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doughensel/blog.git"
+  },
+  "keywords": [
+    "blog",
+    "static",
+    "generated-html"
+  ],
+  "author": "Douglas Hensel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doughensel/blog/issues"
+  },
+  "homepage": "https://github.com/doughensel/blog#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
