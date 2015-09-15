@@ -25,5 +25,8 @@
     "express": "^4.13.3",
     "gulp": "^3.9.0",
     "http": "0.0.0"
+  },
+  "devDependencies": {
+    "gulp-babel": "^5.2.1"
   }
 }
